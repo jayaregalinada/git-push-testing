@@ -1,1 +1,1 @@
-on main
+on deploy/dev
